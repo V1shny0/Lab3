@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793297526 source:d:\Лаби інформатика\lab3_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<limits.h>
+
